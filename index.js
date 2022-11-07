@@ -1,27 +1,15 @@
-console.log(505)
-console.log(2.34)
-console.log("qwerty")
-console.log(false)
-console.log(null)
-console.log(undefined)
-
-//console.log(userFirstName)
+let number1;
+console.log(number1);
+number1 = 12;
+console.log(number1);
 
 let userFirstName;
-console.log(userFirstName)
-uesrFirstName = 'Bred';
-userFirstName = "O'Donel";
-userFirstName = 'O\'Donel';
 
-let isSunInSkyNow = false
+const userLastName = "Pit";
 
-let peopleAge = '23';
-console.log(peopleAge)
+userFirstName = "Tom";
+// userFirstName = 'Brad';
 
-let isAdulperson = 'true';
+// userLastName = "Cruse";
 
-let programName;
-console.log(programName)
-programNamwe = 'C++';
-
-let isPersonHomeAnimal = 'no';
+console.log(userFirstName, userLastName);
